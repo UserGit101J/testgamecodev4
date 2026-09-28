@@ -5,7 +5,7 @@ the player presses space to jump over the obsicales and the player must collect
 all of the good history artifacts to win.
 you play as a character named "history ball" whose goal is to collect all of the good artifacts and 
 avoid the bad ones.
-Written by Jahsan watkins
+Written by Jahsan watkins, Abel, and Pujan
 
 
 
