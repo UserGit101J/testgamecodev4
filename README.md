@@ -8,6 +8,6 @@ avoid the bad ones.
 Written by Jahsan watkins, Abel, and Pujan
 
 
-
+to launch the game open up  the "test game" folder and then open "game.py" via double click or right click and then press open.
 
 All images are made by me using pixelart, Besides the background which was made using python pygame colors.
