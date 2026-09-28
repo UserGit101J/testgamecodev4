@@ -10,4 +10,4 @@ Written by Jahsan watkins, Abel, and Pujan
 
 
 
-All images are made by me using pixelart
+All images are made by me using pixelart, Besides the background which was made using python pygame colors.
